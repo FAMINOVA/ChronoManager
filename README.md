@@ -3,6 +3,7 @@ Seu gerenciador de datas e eventos importantes.
 
 ## Integrantes:
 
+- Guilherme Freitas M.;
 - Luiz Henrique C. Rodrigues;
 - Murilo de Oliveira Freitas;
 - Pedro Henrique de Andrade Gomes;
