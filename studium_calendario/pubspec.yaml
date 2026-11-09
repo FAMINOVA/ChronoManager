@@ -1,0 +1,17 @@
+name: studium_calendario
+description: Módulo de calendário e datas importantes do Studium, portado de PHP para Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  supabase_flutter: ^2.8.0
+
+flutter:
+  uses-material-design: true
